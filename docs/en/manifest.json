@@ -1,0 +1,312 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Untitled Book",
+    "identifier": "urn:uuid:133d26f6-1987-4023-b5d8-a00b2257507a",
+    "author": {
+      "name": "Kotobee"
+    },
+    "publisher": {
+      "name": "N/A"
+    },
+    "language": [
+      "en"
+    ],
+    "modified": "2019-04-03T16:42:52.247Z",
+    "description": "No description available",
+    "rendition": {
+      "layout": "reflowable"
+    },
+    "rights": "Kotobee"
+  },
+  "readingOrder": [
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/skzgji.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s909mk.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s54knu.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page2.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page3.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page5.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page6.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page7.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page8.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page9.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page10.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page11.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page12.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page13.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page14.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page15.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page16.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page17.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sajznf.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/st5rty.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    }
+  ],
+  "resources": [
+    {
+      "href": "EPUB/xhtml/raw/contents.xhtml",
+      "type": "application/xhtml+xml",
+      "rel": "contents"
+    },
+    {
+      "href": "EPUB/xhtml/raw/contents.ncx",
+      "type": "application/x-dtbncx+xml"
+    },
+    {
+      "href": "EPUB/imgs/defaultCover.png",
+      "type": "image/png",
+      "height": 324,
+      "width": 250,
+      "rel": "cover"
+    },
+    {
+      "href": "EPUB/css/base.css",
+      "type": "text/css"
+    },
+    {
+      "href": "EPUB/css/global.css",
+      "type": "text/css"
+    },
+    {
+      "href": "META-INF/container.xml",
+      "type": "application/xml"
+    }
+  ],
+  "toc": [
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "title": "Title"
+    },
+    {
+      "href": "EPUB/xhtml/raw/skzgji.xhtml",
+      "title": "Inside Cover"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s909mk.xhtml",
+      "title": "Front Page"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s54knu.xhtml",
+      "title": "Introduction"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page.xhtml",
+      "title": "1. What is Digital Evidence"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page1.xhtml",
+      "title": "2. Legal Considerations for Seizing Digital Eviden.."
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page2.xhtml",
+      "title": "3. The Value of Digital Evidence"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page3.xhtml",
+      "title": "4. The Five Phases of Digital Forensic Examination"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page5.xhtml",
+      "title": "5. The Search Kit"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page6.xhtml",
+      "title": "6. Searching People"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page7.xhtml",
+      "title": "7. Securing the evidence"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page8.xhtml",
+      "title": "8. Interviewing Suspects"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page9.xhtml",
+      "title": "9. Protecting Digital Assets"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page10.xhtml",
+      "title": "10. Chain of Custody"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page11.xhtml",
+      "title": "11. Transporting and Storing Digital Evidence"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page12.xhtml",
+      "title": "12. Hand Held Devices"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page13.xhtml",
+      "title": "13. Computer Systems"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page14.xhtml",
+      "title": "14. External Storage Devices"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page15.xhtml",
+      "title": "15. Other Electronic Devices"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page16.xhtml",
+      "title": "16. The Cloud"
+    },
+    {
+      "href": "EPUB/xhtml/htmlzm663/page17.xhtml",
+      "title": "17. Cyber Crime and Digital Evidence"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sajznf.xhtml",
+      "title": "18. Terminology"
+    },
+    {
+      "href": "EPUB/xhtml/raw/st5rty.xhtml",
+      "title": "Back Cover"
+    }
+  ]
+}
