@@ -24,161 +24,161 @@
   },
   "readingOrder": [
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/skzgji.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s909mk.xhtml",
+     "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s54knu.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page.xhtml",
+      "href": "content/xhtml/chapter1.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page1.xhtml",
+      "href": "content/xhtml/chapter2.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page2.xhtml",
+      "href": "content/xhtml/chapter3.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page3.xhtml",
+      "href": "content/xhtml/chapter4.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page5.xhtml",
+      "href": "content/xhtml/chapter5.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page6.xhtml",
+      "href": "content/xhtml/chapter6.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page7.xhtml",
+      "href": "content/xhtml/chapter7.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page8.xhtml",
+      "href": "content/xhtml/chapter8.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page9.xhtml",
+      "href": "content/xhtml/chapter9.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page10.xhtml",
+      "href": "content/xhtml/chapter10.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page11.xhtml",
+      "href": "content/xhtml/chapter11.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page12.xhtml",
+      "href": "content/xhtml/chapter12.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page13.xhtml",
+      "href": "content/xhtml/chapter13.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page14.xhtml",
+      "href": "content/xhtml/chapter14.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page15.xhtml",
+      "href": "content/xhtml/chapter15.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page16.xhtml",
+      "href": "content/xhtml/chapter16.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page17.xhtml",
+      "href": "content/xhtml/chapter17.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/sajznf.xhtml",
+      "href": "content/xhtml/chapter18.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/st5rty.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
@@ -187,27 +187,11 @@
   ],
   "resources": [
     {
-      "href": "EPUB/xhtml/raw/contents.xhtml",
-      "type": "application/xhtml+xml",
-      "rel": "contents"
-    },
-    {
-      "href": "EPUB/xhtml/raw/contents.ncx",
-      "type": "application/x-dtbncx+xml"
-    },
-    {
-      "href": "EPUB/imgs/defaultCover.png",
-      "type": "image/png",
-      "height": 324,
-      "width": 250,
-      "rel": "cover"
-    },
-    {
-      "href": "EPUB/css/base.css",
+      "href": "../resources/css/base.css",
       "type": "text/css"
     },
     {
-      "href": "EPUB/css/global.css",
+      "href": "../resources/css/global.css",
       "type": "text/css"
     },
     {
@@ -217,95 +201,95 @@
   ],
   "toc": [
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "title": "Title"
     },
     {
-      "href": "EPUB/xhtml/raw/skzgji.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "title": "Inside Cover"
     },
     {
-      "href": "EPUB/xhtml/raw/s909mk.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "title": "Front Page"
     },
     {
-      "href": "EPUB/xhtml/raw/s54knu.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "title": "Introduction"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page.xhtml",
-      "title": "1. What is Digital Evidence"
+      "href": "content/xhtml/chapter1.xhtml",
+      "title": "1. What is Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page1.xhtml",
-      "title": "2. Legal Considerations for Seizing Digital Eviden.."
+      "href": "content/xhtml/chapter2.xhtml",
+      "title": "2. CITES"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page2.xhtml",
-      "title": "3. The Value of Digital Evidence"
+      "href": "content/xhtml/chapter3.xhtml",
+      "title": "3. National Legislation"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page3.xhtml",
-      "title": "4. The Five Phases of Digital Forensic Examination"
+      "href": "content/xhtml/chapter4.xhtml",
+      "title": "4. Investigating Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page5.xhtml",
-      "title": "5. The Search Kit"
+      "href": "content/xhtml/chapter5.xhtml",
+      "title": "5. Sources of Information"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page6.xhtml",
-      "title": "6. Searching People"
+      "href": "content/xhtml/chapter6.xhtml",
+      "title": "6. The Internet and Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page7.xhtml",
-      "title": "7. Securing the evidence"
+      "href": "content/xhtml/chapter7.xhtml",
+      "title": "7. Sharing Intelligence"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page8.xhtml",
-      "title": "8. Interviewing Suspects"
+      "href": "content/xhtml/chapter8.xhtml",
+      "title": "8. Documentation"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page9.xhtml",
-      "title": "9. Protecting Digital Assets"
+      "href": "content/xhtml/chapter9.xhtml",
+      "title": "9. Risk Profiling"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page10.xhtml",
-      "title": "10. Chain of Custody"
+      "href": "content/xhtml/chapter10.xhtml",
+      "title": "10. Identification of wildlife and wildlife produc.."
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page11.xhtml",
-      "title": "11. Transporting and Storing Digital Evidence"
+      "href": "content/xhtml/chapter11.xhtml",
+      "title": "11. The Search Kit"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page12.xhtml",
-      "title": "12. Hand Held Devices"
+      "href": "content/xhtml/chapter12.xhtml",
+      "title": "12. Securing the evidence"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page13.xhtml",
-      "title": "13. Computer Systems"
+      "href": "content/xhtml/chapter13.xhtml",
+      "title": "13. Chain of Custody"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page14.xhtml",
-      "title": "14. External Storage Devices"
+      "href": "content/xhtml/chapter14.xhtml",
+      "title": "14. Controlled Deliveries"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page15.xhtml",
-      "title": "15. Other Electronic Devices"
+      "href": "content/xhtml/chapter15.xhtml",
+      "title": "15. Interviewing Suspects"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page16.xhtml",
-      "title": "16. The Cloud"
+      "href": "content/xhtml/chapter16.xhtml",
+      "title": "16. Forensic Considerations"
     },
     {
-      "href": "EPUB/xhtml/htmlzm663/page17.xhtml",
-      "title": "17. Cyber Crime and Digital Evidence"
+      "href": "content/xhtml/chapter17.xhtml",
+      "title": "17. Financial Investigations"
     },
     {
-      "href": "EPUB/xhtml/raw/sajznf.xhtml",
-      "title": "18. Terminology"
+      "href": "content/xhtml/chapter18.xhtml",
+      "title": "18. Transporting and Storing Wildlife and Wildlife.."
     },
     {
-      "href": "EPUB/xhtml/raw/st5rty.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "title": "Back Cover"
     }
   ]
